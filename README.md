@@ -44,7 +44,7 @@ npm install
 
 npm run dev
 
-###Dependencies
+### Dependencies
 
 @emotion/react
 @emotion/styled
@@ -54,10 +54,10 @@ react
 react-dom
 styled-components
 
-###Contact
+### Contact
 jishnutraj817@gmail.com
 
-###License
+### License
 This project is public and not open-source.
 
 
